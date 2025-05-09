@@ -1,7 +1,7 @@
-[![MasterHead](https://gist.github.com/codesandtags/998ecaff2f1b1a0f1d97d6d8a93867b9/raw/0d405110fc8f9a4acfd31937a820076dea8fe46f/welcome.gif)]
+[![MasterHead](https://scontent.fdac142-1.fna.fbcdn.net/v/t39.30808-6/480759227_668302409099125_4904209953227023232_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=cc71e4&_nc_ohc=iLpQmTlIUcIQ7kNvwE-tlmC&_nc_oc=AdklWdVWlt8M01uk9Pz9yur6kw1r5419ApAIWCzLAYjIDlCYI_9RtzuquwouTX0YHMQ&_nc_zt=23&_nc_ht=scontent.fdac142-1.fna&_nc_gid=NslrWsX1-GmVpO18zS3X0g&oh=00_AfIddxvqw_E06RiJFXxCyiWdjlJpGzcCtpeTQCDtdnMryQ&oe=68245DB4)]
 <h1 align="center">Hi 👋, I'm Sazedul Islam</h1>
 <h3 align="center">A passionate Full-stack developer from Bangladesh</h3>
-<img align="right" alt="Codign" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.picmix.com%2Fstamp%2Fgreen-cybergoth-2450432&psig=AOvVaw2g3Rhq1p1gwR55K5bNsXnh&ust=1746912701939000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqGAoTCOi3lZCrl40DFQAAAAAdAAAAABCKAQ">
+<img align="right" alt="Codign" width="400" src="https://img1.picmix.com/output/stamp/normal/2/3/4/0/2450432_4b05f.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sazed1237&label=Profile%20views&color=0e75b6&style=flat" alt="sazed1237" /> </p>
 
