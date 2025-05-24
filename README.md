@@ -1,6 +1,6 @@
 
 <!-- Banner image -->
-<img src="banner.gif" alt="GitHub Banner" width="100%" style="border-radius: 5px;" />
+<img src="Sazedul Linkdin cover.png" alt="GitHub Banner" width="100%" style="border-radius: 5px;" />
 
 
 
@@ -76,7 +76,7 @@ I'm currently exploring opportunities to:
 ###
 
 
-
+<img src="banner.gif" alt="GitHub Banner" width="100%" style="border-radius: 5px;" />
 
 
 <!-- Contact us -->
